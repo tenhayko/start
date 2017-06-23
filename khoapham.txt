@@ -1,3 +1,7 @@
 pham van duc
+<<<<<<< HEAD
 tuyen quang
 20 tuoi
+=======
+tuyen quang
+>>>>>>> parent of 1914af9... them moi
