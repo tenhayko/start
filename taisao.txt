@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 tai sao 
 tai sao 2
+=======
+>>>>>>> parent of b27478b... them noi dung tai sao
